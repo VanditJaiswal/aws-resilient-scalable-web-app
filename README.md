@@ -222,7 +222,7 @@ The complete deployment architecture, AWS configuration, implementation steps, a
 
 ---
 
-## EC2 Instance (Minimum/Scaled-in)
+## EC2 Instances (Minimum/Scaled-in)
 
 <img width="2241" height="312" alt="instances" src="https://github.com/user-attachments/assets/188e3dec-0736-4e92-91a1-044066d251f2" />
 
