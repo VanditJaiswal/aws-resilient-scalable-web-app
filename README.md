@@ -277,6 +277,6 @@ The application became accessible through the custom domain.
 
 Cloud & DevOps Enthusiast
 
-GitHub: https://github.com/yourusername
 
-Website: https://vanditjaiswal.in
+
+
