@@ -222,10 +222,16 @@ The complete deployment architecture, AWS configuration, implementation steps, a
 
 ---
 
-## EC2 Instance
+## EC2 Instance (Minimum/Scaled-in)
 
 <img width="2241" height="312" alt="instances" src="https://github.com/user-attachments/assets/188e3dec-0736-4e92-91a1-044066d251f2" />
 
+
+---
+
+## EC2 Instances (Scaled-out)
+
+<img width="2245" height="372" alt="instances_scaledout" src="https://github.com/user-attachments/assets/4cadb3df-388d-45e6-b503-c38daffd9e36" />
 
 ---
 
@@ -245,8 +251,7 @@ The complete deployment architecture, AWS configuration, implementation steps, a
 
 ## Auto Scaling Activity
 
-<img width="2559" height="1151" alt="image" src="https://github.com/user-attachments/assets/0e43bece-d6f4-478e-8c8c-2f97f65fc573" />
-
+<img width="2233" height="811" alt="Activity" src="https://github.com/user-attachments/assets/0df2a5ea-9b5e-4025-9308-f1c04cd3f681" />
 
 ---
 
