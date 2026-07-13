@@ -147,9 +147,9 @@ The application became accessible through the custom domain.
 
 This repository includes the source files used for the deployment:
 
-- [`website/index.html`](website/index.html) – HTML source code for the web application served by Apache HTTP Server.
+- [`index.html`](index.html) – HTML source code for the web application served by Apache HTTP Server.
 
-- [`user-data/stress-app-user-data.sh`](user-data/stress-app-user-data.sh) – EC2 User Data script used to deploy the CPU stress testing application for demonstrating Auto Scaling.
+- [`stress-app-user-data.sh`](stress-app-user-data.sh) – EC2 User Data script used to deploy the CPU stress testing application for demonstrating Auto Scaling.
 
 The complete deployment architecture, AWS configuration, implementation steps, and supporting screenshots are documented throughout this README.
 
